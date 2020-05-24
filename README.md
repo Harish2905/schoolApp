@@ -9,5 +9,12 @@
 5.php artisan db:seed --class=UserSeeder</br>
 6.npm install </br>
 7.npm run dev </br>
-8.php artisan serve
+8.php artisan serve</br>
 </p>
+
+
+<p>
+ please login this accout:</br>
+ Email:admin@admin.com</br>
+ password:admin123</br>
+<p>
