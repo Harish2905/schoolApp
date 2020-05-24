@@ -18,5 +18,5 @@
  Email:admin@admin.com</br>
  password:admin123</br>
 <p>
-<img src="https://drive.google.com/open?id=1vgwEeuC6Ry1sfiEsO5uqx3kzqKrQSJTZ" alt="Error image">
+<img src="https://drive.google.com/thumbnail?id=1vgwEeuC6Ry1sfiEsO5uqx3kzqKrQSJTZ" alt="Error image">
 
